@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SecondLab</string>
+    <string name="coma">Команда 1</string>
+    <string name="coma2">Команда 2</string>
+    <string name="scroll">Счёт</string>
+    <string name="scroll2">Счёт</string>
+    <string name="goal1">0</string>
+    <string name="goal2">0</string>
+    <string name="fall">Фолы</string>
+    <string name="falls2">Фолы</string>
+    <string name="cf">0</string>
+    <string name="cf2">0</string>
+    <string name="button">+Гол</string>
+    <string name="button2">+Гол</string>
+    <string name="button3">+ФОЛ</string>
+    <string name="button4">+ФОЛ</string>
+    <string name="button5">Сброс</string>
+
+</resources>
